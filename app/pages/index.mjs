@@ -60,14 +60,14 @@ myproject@0.0.1 /[...]/myproject
 myproject
 
 @events
-reckoning
-  src jobs/events/apocalypse
+happening
+  src jobs/events/happening
 
-  @tables
+@tables
 things
   key *String
 
-  @plugins
+@plugins
 enhance/arc-plugin-enhance
 
 @aws
